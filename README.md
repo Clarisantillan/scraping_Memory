@@ -1,0 +1,1 @@
+El script Memory_scraping.py automatiza la extracción de información sobre laptops del sitio web memorykings.pe y la guarda en un archivo CSV. Este proyecto esta en curso y fue pedido por un cliente para monitorear los precios de laptops en el sitio web y realizar análisis comparativos de productos. 
